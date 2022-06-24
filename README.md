@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor MH Chen from Singapore.
 - 👀 I’m interested in programming for industry automation including machine vision.
 - 🌱 I’m currently learning Python programming.
-- 💞️ I’m looking to collaborate on implementing 4 or more DOFs Scara robots into industry automation with vision guided.
+- 💞️ I’m looking to collaborate on implementing 3 or more DOFs Scara robots into industry automation with vision guided.
 - 📫 How to reach me: victormhchen@outlook.com
 
 <!---
